@@ -17,12 +17,13 @@
       {
         "userSymbol": "bmGasFlexCache",
         "libraryId": "1R_r9n4EGctvA8lWBZVeuT66mgaKBRV5IxfIsD_And-ra2H16iNXVWva0",
-        "version": "8",
+        "version": "10",
         "developmentMode": false
       }
     ]
   },
   "oauthScopes": [
-    "https://www.googleapis.com/auth/script.external_request"
+    "https://www.googleapis.com/auth/script.external_request",
+    "openid"
   ]
 }
